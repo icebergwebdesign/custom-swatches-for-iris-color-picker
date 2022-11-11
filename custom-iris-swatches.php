@@ -10,8 +10,8 @@
  * @wordpress-plugin
  * Plugin Name:       Iceberg Custom Swatches for Iris Color Picker
  * Plugin URI:        https://www.icebergwebdesign.com/custom-swatches-iris-color-picker/
- * Description:       IWD Custom Plugin for Biffs Inc.
- * Version:           2.0.0
+ * Description:       A plugin to choose custom swatches for the Iris Color Picker
+ * Version:           2.0.1
  * Requires at least: 5.7
  * Requires PHP:      7.4
  * Author:            Iceberg Web Design
